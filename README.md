@@ -17,7 +17,7 @@ DWG2ImageX allows you to convert DWG/DXF/DWF file into GIF, JPEG, BMP, PNG direc
 - Support AutoCAD drawing in versions from R9 to 2027.
 
 ### Free Trial Download Link
-
+https://github.com/autodwg/DWG2ImageX/releases/download/v2.1.2/DWG2ImageX-v2.1.2.zip
 
 ## User Guide
 ### Getting Started
