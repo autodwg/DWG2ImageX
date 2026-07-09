@@ -70,3 +70,9 @@ MsgBox Err.Description
 End If
         
 ```
+
+## License Notice
+1. Free trial / non-commercial use: GNU LGPL v2.1
+2. Commercial production use, closed-source integration requires purchasing our commercial license.
+
+Contact info@autodwg.com for commercial authorization.
