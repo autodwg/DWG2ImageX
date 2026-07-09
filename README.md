@@ -1,12 +1,6 @@
 # DWG2ImageX
 **AutoDWG DWG to Image Component**
 
-## License Notice
-1. Free trial / non-commercial use: GNU LGPLv3
-2. Commercial production use, closed-source integration requires purchasing our commercial license.
-
-Contact info@autodwg.com for commercial authorization.
-
 ## AutoDWG DWG to Image Control Component
 DWG2ImageX allows you to convert DWG/DXF/DWF file into GIF, JPEG, BMP, PNG directly, without need of AutoCAD.
 
