@@ -1,6 +1,3 @@
-# DWG2ImageX
-**AutoDWG DWG to Image Component**
-
 ## AutoDWG DWG to Image Control Component
 DWG2ImageX allows you to convert DWG/DXF/DWF file into GIF, JPEG, BMP, PNG directly, without need of AutoCAD.
 
